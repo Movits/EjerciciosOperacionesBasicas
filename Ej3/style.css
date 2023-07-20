@@ -5,3 +5,8 @@
 button{
     width: 240px;
 }
+
+#contenidoOpcion2,
+#contenidoOpcion3 {
+  display: none;
+}
